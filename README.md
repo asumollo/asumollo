@@ -1,9 +1,9 @@
 ```
 xx+x+++++;;;+;;;;;::::;;;;+xxxxxxxxx+x+xx+xX   anton@sumollo
-;;;;;;;+Xx++++++;;;;;;;:::;xx++xxxxxxxxxxxxx   -------------
-xxx++;;:;+;;;;xx+++++;;::;;x;:;;;++++;x;;::+   Role:       Full-Stack Software Engineer (AI native)
-x&&&Xx+++xx++;;+;:;;+;;++;;x;::::::;::x:::;x   Location:   Pampanga, Philippines
-;;++x+::;+X$x+;xXXx++++;;:;x++;++;;:::x:;+xX   License:    Electronics Engineer
+                   ;;;;:::;xx++xxxxxxxxxxxxx   -------------
+                   ++;;::;;x;:;;;++++;x;;::+   Role:       Full-Stack Software Engineer (AI native)
+                   ;+;;++;;x;::::::;::x:::;x   Location:   Pampanga, Philippines
+                   ++++;;:;x++;++;;:::x:;+xX   License:    Electronics Engineer
                  ++X$&$++Xxxxx++;++;;+X::::+ 
                 &&&&&&&&&&+x+;;++x++;;X::::;   Languages:  Python, TypeScript, JavaScript, SQL, C/C++
                &&&&&$xx&&&&Xx:;;;+++;+X;:::+   Frontend:   React, Next.js, Tailwind CSS
