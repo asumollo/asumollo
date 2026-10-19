@@ -22,7 +22,7 @@ xx+x+++++;;;+;;;;;::::;;;;+xxxxxxxxx+x+xx+xX   anton@sumollo
                 &x:+&&&&&&&&&&&&&&&&&&X;xxxx   Hidden:     try sudo hire anton
                $&+:x&&&&&&&&&&&&&&$&&&$+xxxx   Contact
                &&+;$&&&&&&&&&&&&&&&$&&$x;+++   LinkedIn:   linkedin.com/in/amssumollo
-               &&+x&&&&&&&&&&&&&&&&$$&&X;;;;   Email:      antonmark.sumollo@gmail.com
+xx+x+++++;;;+;;&&+x&&&&&&&&&&&&&&&&$$&&X;;;;   Email:      antonmark.sumollo@gmail.com
 ```
 
 ### Main skills
