@@ -1,26 +1,24 @@
 ```
 xx+x+++++;;;+;;;;;::::;;;;+xxxxxxxxx+x+xx+xX   anton@sumollo
-                   ;;;;:::;xx++xxxxxxxxxxxxx   -------------
-                   ++;;::;;x;:;;;++++;x;;::+   Role:       Full-Stack Software Engineer (AI native)
-                   ;+;;++;;x;::::::;::x:::;x   Location:   Pampanga, Philippines
-                   ++++;;:;x++;++;;:::x:;+xX   License:    Electronics Engineer
-                 ++X$&$++Xxxxx++;++;;+X::::+ 
-                &&&&&&&&&&+x+;;++x++;;X::::;   Languages:  Python, TypeScript, JavaScript, SQL, C/C++
-               &&&&&$xx&&&&Xx:;;;+++;+X;:::+   Frontend:   React, Next.js, Tailwind CSS
-               &&&$XXxxX&&&$+;;+;++x++X+;;:+   Backend:    Django, Node.js, REST APIs
-                &&$x$$X+x&&X+;;;;+++;+x;;;;+   Data:       PostgreSQL, Supabase, Redis, Celery
-                xx+;++;;+xxx+;;;;+xx+xX++;;+   Cloud:      AWS, Azure, Heroku, Cloudflare
-     ^_^        x$$XxXx++++x+++++++;;+x;;:;x   AI:         LLM pipelines, RAG, embeddings, vector search
-                 X$Xx+++xxxx+;;;;++;;+x;;;;X
-                  xxxX$X$&&&X;;++x+;;+x;::;X   Tools:      Claude Code, Orca, n8n, Docker, Playwright
+                   ;+;;++;;x;::::::;::x:::;x   -------------
+                   ++++;;:;x++;++;;:::x:;+xX   Role:       Full-Stack Software Engineer (AI native)
+                 ++X$&$++Xxxxx++;++;;+X::::+   Location:   Pampanga, Philippines
+                &&&&&&&&&&+x+;;++x++;;X::::;   License:    Electronics Engineer
+               &&&&&$xx&&&&Xx:;;;+++;+X;:::+   
+               &&&$XXxxX&&&$+;;+;++x++X+;;:+   Languages:  Python, TypeScript, JavaScript, SQL, C/C++
+   ^_^          &&$x$$X+x&&X+;;;;+++;+x;;;;+   Frontend:   React, Next.js, Tailwind CSS
+                xx+;++;;+xxx+;;;;+xx+xX++;;+   Backend:    Django, Node.js, REST APIs
+                x$$XxXx++++x+++++++;;+x;;:;x   Data:       PostgreSQL, Supabase, Redis, Celery
+                 X$Xx+++xxxx+;;;;++;;+x;;;;X   Cloud:      AWS, Azure, Heroku, Cloudflare
+                  xxxX$X$&&&X;;++x+;;+x;::;X   AI:         LLM pipelines, RAG, embeddings, vector search
                    X$$$$&&&&&&$X+x+;:+x++++X
-                  X&xxX&&&&&&&$$$$x;:XXxxxxX   Fun stuff
-                 xx+;X&&&&&&&&&$$&&XX&X&&x++   ---------
-                xXx;;&&&&&&&&&&&&&&&X;+;;:::   Uptime:     6 yrs in engineering
+                  X&xxX&&&&&&&$$$$x;:XXxxxxX   Tools:      Claude Code, Orca, n8n, Docker, Playwright
+                 xx+;X&&&&&&&&&$$&&XX&X&&x++  
+                xXx;;&&&&&&&&&&&&&&&X;+;;:::   Uptime:     6 yrs+ 
                 xx;:;&&&&&&&&&&&&$$&&X+;::;x   Mode:       launch fast, fail fast, learn faster
                 x$:+X&&&&&&&&&&&&&&&&$+::+xx   Superpower: turning coffee into commits
                 &x:+&&&&&&&&&&&&&&&&&&X;xxxx   Hidden:     try sudo hire anton
-               $&+:x&&&&&&&&&&&&&&$&&&$+xxxx   Contact
+               $&+:x&&&&&&&&&&&&&&$&&&$+xxxx   
                &&+;$&&&&&&&&&&&&&&&$&&$x;+++   LinkedIn:   linkedin.com/in/amssumollo
 xx+x+++++;;;+;;&&+x&&&&&&&&&&&&&&&&$$&&X;;;;   Email:      antonmark.sumollo@gmail.com
 ```
