@@ -16,8 +16,8 @@ xx+x+++++;;;+;;;;;::::;;;;+xxxxxxxxx+x+xx+xX   anton@sumollo
                  xx+;X&&&&&&&&&$$&&XX&X&&x++  
                 xXx;;&&&&&&&&&&&&&&&X;+;;:::   Uptime:     6 yrs+ 
                 xx;:;&&&&&&&&&&&&$$&&X+;::;x   Mode:       launch fast, fail fast, learn faster
-                x$:+X&&&&&&&&&&&&&&&&$+::+xx   Superpower: turning coffee into commits
-                &x:+&&&&&&&&&&&&&&&&&&X;xxxx   Hidden:     try sudo hire anton
+                x$:+X&&&&&&&&&&&&&&&&$+::+xx   Hidden:     try sudo hire anton
+                &x:+&&&&&&&&&&&&&&&&&&X;xxxx   
                $&+:x&&&&&&&&&&&&&&$&&&$+xxxx   
                &&+;$&&&&&&&&&&&&&&&$&&$x;+++   LinkedIn:   linkedin.com/in/amssumollo
 xx+x+++++;;;+;;&&+x&&&&&&&&&&&&&&&&$$&&X;;;;   Email:      antonmark.sumollo@gmail.com
